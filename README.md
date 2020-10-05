@@ -17,7 +17,9 @@ UTMCC DataViz Module 11 UFOs
   In support of Dana, from Oregon, has a keen interest of UFOs, where her hometown has a history of YFO sitings. Using Javascript is to gather and disply UFO related data, using filters, to generate a web site with an interactive dashboard. 
 
    ### Purpose
-   To prepare a . 
+   
+   To create an interactive webpage that allows users to parse data of recorded UFO sightings. Building an engine with: 1) a webpage that will allow users to view the data (using HTML), and 2) a dynamic table that will present the information (using JavaScript).
+
   
    The deliverables are:  
    
