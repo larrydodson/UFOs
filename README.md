@@ -1,6 +1,7 @@
 # UFOs
 UTMCC DataViz Module 11 UFOs  https://larrydodson.github.io/ufo_sightings/ 
-  https://github.com/larrydodson/UFOs/blob/main/index.html
+
+https://larrydodson.github.io/
 
 ---
 
