@@ -30,8 +30,8 @@ UTMCC DataViz Module 11 UFOs  https://larrydodson.github.io/ufo_sightings/
    
   
    ### Resources
-  * Data/content sources: NASA, JPL and USGS Astopedia web content 
-  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, HTML, Splinter, BeautifulSoup 2.0.1, Flask 1.1.2, flask_pymongo 2.3.0, Bootstrap 3.3.7, MongoDB 4.4.1
+  * Data/content sources: data.js file 
+  * Software: Windows10, VS Code 1.49.1, HTML, JavaScript, Bootstrap
   
 --- 
 
