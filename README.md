@@ -1,7 +1,7 @@
 # UFOs
-UTMCC DataViz Module 11 UFOs  https://larrydodson.github.io/ufo_sightings/ 
+UTMCC DataViz Module 11 UFOs  https://larrydodson.github.io/UFO_Finder/ 
 
-https://larrydodson.github.io/
+
 
 ---
 
@@ -38,7 +38,7 @@ https://larrydodson.github.io/
 
 ## Results
   
-  ### Deliverable 1  --   
+  ### Deliverable 1  --   https://larrydodson.github.io/UFO_Finder/
     
    * Ple
    
