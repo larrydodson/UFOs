@@ -13,7 +13,7 @@
 
     <div class="wrapper">
         <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
-            <a class="navbar-brand" href="index.html">UFO Sightings <br> and "Filter Search Reset"</a>
+            <a class="navbar-brand" href="index.html">UFO Sightings </a>
         </nav>
     </div>
     <div class="jumbotron">
@@ -42,22 +42,40 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3">
-                <h4>Filter Search for the Sightings Data</h4>
+                <h4>UFO Sightings Search</h4>
                 <form class="bg-dark">
                     <p>Filter Search</p>
                     <ul class="list-group bg-dark">
                         <li class="list-group-item bg-dark">
-                            <label for="date">Enter Date</label>
-                            <input type="text" placeholder="1/10/2010 (format)" id="datetime" />
+                            <label for="date">Enter Date (in this format) </label> <br>
+                            <input type="text" placeholder="1/10/2010" id="datetime" />
                         </li>
                         <li class="list-group-item bg-dark">
-                            <button id="filter-btn" type="button" class="btn btn-dark btn-lg text-white" style="background-color:black;">Filter Table</button>
+                            <label for="city">Enter City </label> <br>
+                            <input type="text" placeholder="roswell" id="city" />
                         </li>
+                        <li class="list-group-item bg-dark">
+                            <label for="state">Enter State </label> <br>
+                            <input type="text" placeholder="nm" id="state" />
+                        </li>
+                        <li class="list-group-item bg-dark">
+                            <label for="country">Enter Country </label> <br>
+                            <input type="text" placeholder="us" id="country" />
+                        </li>
+                        <li class="list-group-item bg-dark">
+                            <label for="shape">Enter a Shape </label> <br>
+                            <input type="text" placeholder="sphere" id="shape" />
+                        </li>
+
+                        <button id="filter-btn" type="submit" class="btn btn-primary btn-lg btn-block" style="background-color:gray;">Filter Table</button>
+                        <button id="reset-btn" type="submit" class="btn btn-primary btn-lg btn-block" style="background-color:gray;">Reset</button>
+
                     </ul>
                 </form>
             </div>
+
+            <!-- data table-->
             <div class="col-md-9">
-                <p>Sightings Data</p>
                 <table class="table table-striped">
                     <thead>
                         <th>Date</th>
@@ -78,12 +96,8 @@
     <script src="static/js/data.js"></script>
     <script src="static/js/app.js"></script>
 
-    <footer class="container mt-4 ">
-        <div class="row ">
-            <div class="col ">
-                <p class="text-center ">UTMCC Module-10 - Larry Dodson </p>
-            </div>
-        </div>
+    <footer class="footer">
+        <span class="bottom text-center ">  UFO Sightings - UTMCC Module-11 - Larry Dodson </span>
     </footer>
 
 </body>
