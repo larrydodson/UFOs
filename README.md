@@ -16,7 +16,7 @@ UTMCC DataViz Module 11 UFOs  https://larrydodson.github.io/UFO_Finder/
 
 ## Overview 
   
-  In support of Dana, from Oregon, has a keen interest of UFOs, where her hometown has a history of YFO sitings. Using Javascript is to gather and disply UFO related data, using filters, to generate a web site with an interactive dashboard. 
+  In support of Dana, from Oregon, has a keen interest of UFOs, where her hometown has a history of UFO sitings. Using Javascript is to gather and disply UFO-related data, using filters, to generate a web site with an interactive dashboard. 
 
    ### Purpose
    
