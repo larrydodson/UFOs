@@ -41,33 +41,19 @@ UTMCC DataViz Module 11 UFOs
   ###  -- The web app is deployed here (using GitHub Pages):  https://larrydodson.github.io/UFO_Finder/
   
    **Sample image of the webpage:**
-     ![UFO_Finder_webpage.png](https://github.com/larrydodson/UFOs/blob/main/static/images/UFO_Finder_webpage.png)
+   
+   ![UFO_Finder_webpage.png](https://github.com/larrydodson/UFOs/blob/main/static/images/UFO_Finder_webpage.png)
    
 
 .
 
     
-  * **Using the webpage's search engine:** 
+  * **Instructions for using the webpage's UFO Sightings search engine:** 
   
   
-      ![Search_description.png](https://github.com/larrydodson/UFOs/blob/main/static/images/Search_description.png)
-   
-   
- 
-   
+   ![Search_description.png](https://github.com/larrydodson/UFOs/blob/main/static/images/Search_description.png)
    
 
-   
-   
-   
-   ![]()
-   
-   
-   ![]()
-   
-   
-
-   
 .   
 
 --- 
