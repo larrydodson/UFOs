@@ -47,7 +47,7 @@ UTMCC DataViz Module 11 UFOs
 <br>
 
   ### Instructions for using the webpage's UFO Sightings search engine: 
-    (please see the Example below) 
+   (please see the Example below) 
   
   
    ![Search_description.png](https://github.com/larrydodson/UFOs/blob/main/static/images/Search_description.png)
@@ -66,8 +66,7 @@ UTMCC DataViz Module 11 UFOs
 ## Summary
   
   ### Drawback of the Design 
-   **Adding search criteria**:  --  The current method coding being used is relatively ridged, and adding additional and new search criteria as filters, and as columns, could mean rewriting most of the code. 
-
+   **Adding search criteria**:  --  The current method of coding that was used is not too flexible for adding additional and new search criteria as filters, and as columns. To add new search filters and a new database would likely need a code refactor or a full rewriting for most of the js code.  
 <br>
   
   ### Recommendations for further development
