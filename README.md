@@ -59,9 +59,9 @@ UTMCC DataViz Module 11 UFOs
 --- 
 
 ## Summary
-  
-  ### Drawback(s) 
   (describe one drawback of this new design)
+  ### Drawback(s) 
+  1. 
   
   
   .
@@ -72,6 +72,8 @@ UTMCC DataViz Module 11 UFOs
 
 
 rough notes:
+Rubric:   drawbacks or problems  - adding new features are problematic, adding new columns could be problematic 
+
  - interaction with the time-series
 the different means of filtering
 Bad: loose coordination between map and subplots
