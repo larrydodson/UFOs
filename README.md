@@ -1,7 +1,7 @@
 # UFOs
-UTMCC DataViz Module 11 UFOs  https://larrydodson.github.io/UFO_Finder/ 
+UTMCC DataViz Module 11 UFOs  
 
-
+  *Shortcut*, the Deliverable-1 web app is deployed here:  https://larrydodson.github.io/UFO_Finder/ 
 
 ---
 
@@ -16,11 +16,11 @@ UTMCC DataViz Module 11 UFOs  https://larrydodson.github.io/UFO_Finder/
 
 ## Overview 
   
-  In support of Dana, from Oregon, has a keen interest of UFOs, where her hometown has a history of UFO sitings. Using Javascript is to gather and disply UFO-related data, using filters, to generate a web site with an interactive dashboard. 
+  In support of Dana, who is from Oregon and has a keen interest of UFOs, and where her hometown has a history of UFO sitings. Using Javascript and HTML to gather and display UFO-related data using filters, to generate a web site with an interactive dashboard. 
 
    ### Purpose
    
-   To create an interactive webpage that allows users to parse data of recorded UFO sightings. Building an engine with: 1) a webpage that will allow users to view the data (using HTML), and 2) a dynamic table that will present the information (using JavaScript).
+   To create a user interactive webpage that allows users to parse data of recorded UFO sightings as an analysis by allowing users to filter for multiple criteria at the same time. Table filters are are used for the date, city, state, country, and shape. to build an filtering engine with: 1) a webpage that will allow users to view the data (using HTML), and 2) a dynamic table that will present the information (using JavaScript).
 
   
    The deliverables are:  
@@ -38,7 +38,7 @@ UTMCC DataViz Module 11 UFOs  https://larrydodson.github.io/UFO_Finder/
 
 ## Results
   
-  ### Deliverable 1  --   https://larrydodson.github.io/UFO_Finder/
+  ### Deliverable 1  -- The web app is deployed here (using GitHub Pages):  https://larrydodson.github.io/UFO_Finder/
     
    * Ple
    
