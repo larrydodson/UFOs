@@ -79,7 +79,14 @@ UTMCC DataViz Module 11 UFOs  https://larrydodson.github.io/UFO_Finder/
 
 
 
-
+rough notes:
+ - interaction with the time-series
+the different means of filtering
+Bad: loose coordination between map and subplots
+enabled the user to inspect time intervals of interest, and then select time intervals to then update the map (beit the choropleth or reports).
+Clicking on bars in the Shape and Duration subplots would have made an effective mechanism to filter reports on the map.
+The scatterplot is cluttered enough to begin with, and so this means of filtering via the other subplots would have been a nice way to interact with the scatterplot.
+Moreover, it would be nice to have some way of showing what states are selected on the map, rather than just the legend on the upper right.
 
 
    .
