@@ -51,7 +51,6 @@ function updateFilters() {
 
     // 6. Call function to apply all filters and rebuild the table:
     filterTable();
-
 }
 
 // 7. Use this function to filter the table when data is entered.
@@ -64,10 +63,8 @@ function filterTable() {
     // matches the filter values
     Object.entries(filters).forEach(function([key, value]) {
         filteredData = filteredData.filter(function(d) {
-
             return d[key] === value
         })
-
     })
 
 
@@ -77,6 +74,9 @@ function filterTable() {
 
 // 2. Attach an event to listen for changes to each filter
 d3.selectAll("input").on("change", updateFilters);
+
+// Event handler
+
 
 // Build the table when the page loads
 buildTable(tableData);
