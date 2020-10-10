@@ -54,6 +54,13 @@ UTMCC DataViz Module 11 UFOs
    ![Search_description.png](https://github.com/larrydodson/UFOs/blob/main/static/images/Search_description.png)
    
 
+
+ * **Example of the Instructions:**
+ 
+ 
+  ![instructions.png](https://github.com/larrydodson/UFOs/blob/main/static/images/instructions.png)
+
+
 .   
 
 --- 
