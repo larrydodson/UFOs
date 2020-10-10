@@ -1,7 +1,7 @@
 # UFOs
 UTMCC DataViz Module 11 UFOs  
 
-  *Shortcut*: the Deliverable-1 web app is deployed here:  https://larrydodson.github.io/UFO_Finder/ 
+   *Shortcut*: the Deliverable-1 web app is deployed here:  https://larrydodson.github.io/UFO_Finder/ 
 
 ---
 
@@ -20,7 +20,7 @@ UTMCC DataViz Module 11 UFOs
 
    ### Purpose
    
-   To create a user interactive webpage that allows users to parse data of recorded UFO sightings as an analysis by allowing users to filter for multiple criteria at the same time. Table filters are are used for the date, city, state, country, and shape. And, to build a filtering engine with: 1) a webpage that will allow users to view the data (using HTML), and 2) a dynamic table that will present the information (using JavaScript).
+   To create a user interactive webpage that allows users to parse data of recorded UFO sightings as an analysis by allowing users to filter for multiple criteria at the same time. Table filters are used for the date, city, state, country, and shape. And, to build a filtering engine with: 1) a webpage that will allow users to view the data (using HTML), and 2) a dynamic table that will present the information (using JavaScript and HTML).
 
   
    The deliverables are:  
@@ -32,7 +32,7 @@ UTMCC DataViz Module 11 UFOs
   
    ### Resources
   * Data/content source: data.js file 
-  * Software: Windows10, VS Code 1.49.1, HTML, JavaScript, Bootstrap
+  * Software: Windows10, VS Code 1.49.1, HTML 5, JavaScript, Bootstrap
   
 --- 
 
@@ -60,21 +60,22 @@ UTMCC DataViz Module 11 UFOs
   ![instructions.png](https://github.com/larrydodson/UFOs/blob/main/static/images/instructions.png)
 
 <br>
+
 --- 
 
 ## Summary
   
   ### Drawback of the Design 
-   **Adding search criteria**:  --  The current method coding being used is relatively ridgid, and adding additional and new search criteria as filters, and as columns, could mean rewriting most of the code. 
+   **Adding search criteria**:  --  The current method coding being used is relatively ridged, and adding additional and new search criteria as filters, and as columns, could mean rewriting most of the code. 
 
 <br>
   
   ### Recommendations for further development
 
-   1. **Additional user interactiviy features:**  --  User interaction features that could be considered and added include:
-    - An interactive geograpy map, showing all locations, with a touch-screen map with filter choice for dates and shapes. The geo map would improve efficiency by quickly showing three of the five search filter criteria for City, State and Country, and then allowing the user to quickly select date and shape. The new graphic image would have the impact of a strong visual for single and multiple users. 
+   1. **Additional user interactivity features:**  --  User interaction features that could be considered and added include:
+    - An interactive geography map, showing all locations, with a touch-screen map with filter choice for dates and shapes. The geo map would improve efficiency by quickly showing three of the five search filter criteria for City, State and Country, and then allowing the user to quickly select date and shape. The new graphic image would have the impact of a strong visual for single and multiple users. 
   
-   2. **Data set size:**  --  From a Google search, there are several other UFO sighting tracking efforts on-going with recording and searching for this type of information. Increasing the data set, and with using web scraping, the data set avaialble for our search engine could be greatly improved for the amount and historical results available. The potential sites available to source additional data could include these: * NATIONAL UFO REPORTING CENTER http://www.ufocenter.com/ ,  * National UFO Research Center http://www.nuforc.org/ ,  * similarly at Kaggle https://www.kaggle.com/NUFORC/ufo-sightings , and at * ArcGIS Online https://www.arcgis.com/apps/webappviewer/index.html?id=ddda71d5211f47e782b12f3f8d06246e .
+   2. **Data set size:**  --  From a Google search, there are several other UFO sighting tracking efforts on-going with recording and searching for this type of information. Increasing the data set, and with using web scraping, the data set available for our search engine could be greatly improved for the amount and historical results available. The potential sites available to source additional data could include these: * NATIONAL UFO REPORTING CENTER http://www.ufocenter.com/ ,  * National UFO Research Center http://www.nuforc.org/ ,  * similarly at Kaggle https://www.kaggle.com/NUFORC/ufo-sightings , and at * ArcGIS Online https://www.arcgis.com/apps/webappviewer/index.html?id=ddda71d5211f47e782b12f3f8d06246e .
 
 --- 
 
